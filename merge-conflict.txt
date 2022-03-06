@@ -10,3 +10,6 @@ line 6 on git
 line 7 on git 
 
 line 8 this text added locally.
+
+
+This current change is from local and from master branch.
